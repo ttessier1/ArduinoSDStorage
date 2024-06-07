@@ -74,7 +74,6 @@ int main()
     int optionNo;
     wchar_t PortNo[20] = { 0 };
     vector<string> comPorts;
-    getchar();
     hThread = CreateThread(NULL, 0, EventThread, NULL, CREATE_SUSPENDED, &dwThreadId);
     if(hThread==INVALID_HANDLE_VALUE)
     {
