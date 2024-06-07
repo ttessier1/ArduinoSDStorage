@@ -20,4 +20,4 @@ The command list is similar to the following:
 
 This basic command list allows for retreiving files, creating files and deleting files but it is a basic and naive implementation
 
-The windows project is best suited for windows 11 using the next gen BCrypt library for hash generation
+The windows project is best suited for windows 11 and Visual Studio 2022 using the next gen BCrypt library for hash generation
